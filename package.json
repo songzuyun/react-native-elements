@@ -39,7 +39,7 @@
     "logo": "https://opencollective.com/react-native-elements/logo.txt"
   },
   "dependencies": {
-    "@types/react-native-vector-icons": "^6.4.6",
+    "@types/react-native-vector-icons": "^10.2.0",
     "color": "^3.1.2",
     "deepmerge": "^4.2.2",
     "hoist-non-react-statics": "^3.3.2",
@@ -73,7 +73,7 @@
     "react-dom": "16.13.1",
     "react-native": "0.63.2",
     "react-native-safe-area-context": "^3.1.9",
-    "react-native-vector-icons": "^7.0.0",
+    "react-native-vector-icons": "^10.2.0",
     "react-test-renderer": "^16.13.1",
     "rimraf": "^3.0.2",
     "typescript": "^4.1.3",
